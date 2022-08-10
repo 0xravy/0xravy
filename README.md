@@ -10,7 +10,8 @@
    
 
 **_Contact**
-><br /><br />
+<br /><br />
+<div>
 [<img
     width="50px"
     height="50px"
@@ -35,3 +36,4 @@
     algin="left"
     alt="Github"
     src="https://cdn-icons-png.flaticon.com/512/25/25231.png">](https://github.com/SaqrTeam)
+</div>
