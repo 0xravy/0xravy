@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 
-**This is my GitHub profile.**
+**_This is my GitHub profile.**
 
 Here we are to get started:
 
