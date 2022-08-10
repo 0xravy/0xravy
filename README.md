@@ -7,9 +7,8 @@
 
 - ⚡ Is there really a funny bone? **But your funny bone isn't actually a bone at all. Running down the inside part of your elbow is a nerve called the ulnar nerve. The ulnar nerve lets your brain know about feelings in your fourth and fifth fingers. It's also one of the nerves that controls some movement of your hand.**
 
-<div dir="rtl">
  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravns&theme=github_dark&show_icons=true)
-</div>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
