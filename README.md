@@ -4,8 +4,6 @@
 - 🌱 I’m currently learning **Linux**
 - 
 <br /><br />
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aravns&theme=github_dark&show_icons=true)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
