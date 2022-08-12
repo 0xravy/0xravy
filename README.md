@@ -26,7 +26,7 @@ Data from Wakatime, based on recent activity
 
 Données de Wakatime, basées sur mon activité récente
 
-![Chart](https://wakatime.com/share/@GoudronViande24/a0ad240f-e5e8-407b-a016-307360676594.svg)
+![Chart](https://wakatime.com/share/@aravns/a0ad240f-e5e8-407b-a016-307360676594.svg)
 
 ![Snake](https://raw.githubusercontent.com/aravns/GoudronViande24/output/contribution-grid-snake.svg)
 
