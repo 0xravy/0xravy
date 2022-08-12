@@ -2,8 +2,7 @@
 <h3 align="center">A passionate fullstack developer from saudi arabia</h3>
 
 - 🌱 I’m currently learning **Linux**
-- 
-<br /><br />
+<br />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
