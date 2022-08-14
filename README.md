@@ -1,4 +1,4 @@
-<img width="80px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif](https://media.discordapp.net/attachments/918521887489949807/939264084422037504/20220204_235648.gif">
+<img width="80px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">
 <h1 align="center">Hello <img width="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm aravan</h1>
 <h3 align="center">A passionate fullstack developer from saudi arabia</h3>
 
