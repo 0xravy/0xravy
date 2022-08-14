@@ -1,5 +1,3 @@
-
-![](https://komarev.com/ghpvc/?username=aravns&color=06476d&style=flat-square&label=Views%20/%20Vues)
 <div align="center">
   <img style="border-radius: 50%;" width="350px" src="https://media.discordapp.net/attachments/918521887489949807/939264084422037504/20220204_235648.gif">
 </div>
@@ -28,6 +26,7 @@ Données de Wakatime, basées sur mon activité récente
 
 ![Snake](https://raw.githubusercontent.com/GoudronViande24/GoudronViande24/output/contribution-grid-snake.svg)
 
+![](https://komarev.com/ghpvc/?username=aravns&color=06476d&style=flat-square&label=Views%20/%20Vues)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
