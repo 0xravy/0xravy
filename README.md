@@ -30,6 +30,6 @@ Données de Wakatime, basées sur mon activité récente
 
 ![Chart](https://wakatime.com/share/@3547044f-b9bd-4f36-9ff6-fa73c458ffd5/9fd41850-36cb-4bb8-8d0d-f1a8f7bf3d40.svg)
 
-![Snake](https://raw.githubusercontent.com/aravns/GoudronViande24/output/contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/GoudronViande24/GoudronViande24/output/contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=aravns&color=06476d&style=flat-square&label=Views%20/%20Vues)
