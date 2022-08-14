@@ -1,4 +1,4 @@
-<h1 align="center">Hello <img width="80px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm aravan</h1>
+<h1 align="center">Hello <img width="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm aravan</h1>
 <h3 align="center">A passionate fullstack developer from saudi arabia</h3>
 
 - 🌱 I’m currently learning **Linux**
