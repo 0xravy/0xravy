@@ -7,12 +7,6 @@
 - 🌱 I’m currently learning **Linux**
 <br />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/c/$aravan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="$aravan" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/jEJWzn2dXv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/jEJWzn2dXv" height="30" width="40" /></a>
-</p>
-
 ## GitHub Stats | Statistiques GitHub
 
 | Most used languages \| Langages les plus utilisés | Streaks |
@@ -33,3 +27,9 @@ Données de Wakatime, basées sur mon activité récente
 ![Snake](https://raw.githubusercontent.com/GoudronViande24/GoudronViande24/output/contribution-grid-snake.svg)
 
 ![](https://komarev.com/ghpvc/?username=aravns&color=06476d&style=flat-square&label=Views%20/%20Vues)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.youtube.com/c/$aravan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="$aravan" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/jEJWzn2dXv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/jEJWzn2dXv" height="30" width="40" /></a>
+</p>
