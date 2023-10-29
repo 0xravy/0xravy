@@ -9,9 +9,6 @@
   </a>
 </h3>
 
-- 🌱 I’m currently learning **Linux**
-<br />
-
 ## GitHub Stats | Statistiques GitHub
 
 | Most used languages \| Langages les plus utilisés | Streaks |
