@@ -2,7 +2,6 @@
   <img style="border-radius: 50%;" width="50%" src="https://media.discordapp.net/attachments/918521887489949807/939264084422037504/20220204_235648.gif">
 </div>
 
-![gitartwork name](https://github.com/aravns/aravns/blob/main/gitartwork.svg)
 <h1 align="center">Hello <img width="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm aravan</h1>
 <h3 align="center">A passionate fullstack developer from saudi arabia</h3>
 <h3 algin="center">
