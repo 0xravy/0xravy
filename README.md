@@ -20,7 +20,11 @@
 | --- | --- |
 | ![Stats](https://github-readme-stats.vercel.app/api?username=0xravy&theme=onedark&show_icons=true&count_private=true&hide_title=true&bg_color=00000000&border_color=00000000) | ![Trophees](https://github-profile-trophy.vercel.app/?username=0xravy&theme=onedark&column=3&no-frame=true&no-bg=true) |
 
+
+![snake gif](https://github.com/0xravy/0xravy/blob/output/github-contribution-grid-snake.svg)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   https://linktr.ee/0xravy
 </p>
+
