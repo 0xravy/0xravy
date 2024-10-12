@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">Hello <img width="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm  ABDULRAHMAN ALENEZI</h1>
-<h3 align="center">A passionate fullstack developer from saudi arabia</h3>
+<h3 align="center">Software developer from Saudi Arabia and network student</h3>
 
 
 ## GitHub Stats | Statistiques GitHub
