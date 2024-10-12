@@ -2,7 +2,7 @@
   <img style="border-radius: 50%;" width="50%" src="https://media.discordapp.net/attachments/918521887489949807/939264084422037504/20220204_235648.gif">
 </div>
 
-<h1 align="center">Hello <img width="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm Abdulrahman Al-Anzi</h1>
+<h1 align="center">Hello <img width="50px" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif">, I'm  ABDULRAHMAN ALENEZI</h1>
 <h3 align="center">A passionate fullstack developer from saudi arabia</h3>
 
 
