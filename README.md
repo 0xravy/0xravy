@@ -20,7 +20,3 @@
 ![snake gif](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  https://linktr.ee/0xravy
-</p>
-
